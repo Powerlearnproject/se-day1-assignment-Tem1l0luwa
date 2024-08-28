@@ -116,3 +116,7 @@ Define prompt engineering and discuss its importance in interacting with AI mode
 5. Customization: It allows users to customize AI interactions to meet specific needs, making the model more versatile and adaptable to different contexts.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
+Vague Prompt: "How do I cook?"
+Improved Prompt: "Provide a step-by-step recipe for making a classic Italian pasta dish, including ingredients and cooking times."
+Why It's More Effective: The improved prompt specifies the type of dish (Italian pasta), the format (step-by-step recipe), and the details needed (ingredients and cooking times), ensuring the response is practical and actionable.
