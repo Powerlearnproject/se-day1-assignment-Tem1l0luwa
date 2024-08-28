@@ -4,6 +4,7 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
+
 --Software engineering is the discipline of applying engineering principles to design, development testing and maintenance of software system. It is important because it provides a structured approach to managing complex projects, improves software quality through rigorous testing, optimizes resources use and ensures scalability as system grows.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
@@ -14,6 +15,21 @@ Identify and describe at least three key milestones in the evolution of software
 
 List and briefly explain the phases of the Software Development Life Cycle.
 
+The Software Development Life Cycle (SDLC) typically includes the following phases:
+
+1. Planning: Define the project scope, objectives, and feasibility. This phase involves gathering requirements, budgeting, and setting timelines.
+
+2. Analysis: Detailed requirements analysis is conducted to understand the specific needs and constraints of the system. This phase results in a clear, documented set of requirements.
+
+3. Design: Create the architecture of the software, including system design, data models, and interface design. This phase lays the groundwork for development by providing detailed blueprints.
+
+4. Implementation (Development): Actual coding takes place in this phase. Developers translate design documents into executable code, building the software according to specifications.
+
+5. Testing: The software is rigorously tested for bugs, errors, and inconsistencies. This phase ensures that the software meets the specified requirements and is free of defects.
+
+6. Deployment: The software is released and deployed to the production environment. This phase might include installation, migration, and user training.
+
+7. Maintenance: Post-deployment, the software is monitored and maintained. This phase involves fixing bugs, making updates, and improving the software as needed over time.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
