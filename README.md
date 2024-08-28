@@ -8,6 +8,9 @@ Explain what software engineering is and discuss its importance in the technolog
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
+1. Introduction of structured programming (1960s-1970s): structured programming introduced by Edsger Dijkstra, emphasized breaking down programs into smaller, manageable sections, improving code clarity and reducing error
+2. Development of object-oriented program (OOP) (1980s): OOP, popularized by languages like c++ and Java, introduced the concept of "objects" encapsulating data and behavior, which led to more modular, reusable, and maintenance code.
+3. agile methodology (2000s): the agile manifesto, introduced in 2001, shifted Focus towards iterative development, collaborative and adaptability, transforming how software projects and managed and executed.
 
 List and briefly explain the phases of the Software Development Life Cycle.
 
