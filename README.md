@@ -52,7 +52,26 @@ Compare and contrast the Waterfall and Agile methodologies. Provide examples of 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
+1. Software Developer:
+   - Role: Designs, codes, and implements software solutions.
+   - Responsibilities: 
+     - Write, test, and debug code based on project requirements.
+     - Collaborate with other developers, designers, and stakeholders to create software that meets user needs.
+     - Maintain and update existing software, implementing new features and fixing bugs.
 
+2. Quality Assurance (QA) Engineer:
+   - Role: Ensures that the software meets quality standards before it is released.
+   - Responsibilities:
+     - Design and execute test plans, cases, and scripts to identify defects.
+     - Perform manual and automated testing, including functional, regression, and performance testing.
+     - Collaborate with developers to address defects and ensure software is stable and meets user requirements.
+
+3. Project Manager:
+   - Role: Oversees the software development process to ensure it stays on track.
+   - Responsibilities:
+     - Define project scope, goals, and deliverables, and create a project plan.
+     - Coordinate the team, manage resources, and communicate with stakeholders.
+     - Monitor progress, manage risks, and ensure the project is completed on time, within budget, and meets the specified requirements.
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
 
